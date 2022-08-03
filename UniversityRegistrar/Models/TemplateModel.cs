@@ -1,6 +1,6 @@
 
 
-namespace MVC_Database_Template.Models
+namespace UniversityRegistrar.Models
 {
     public class Template
     {

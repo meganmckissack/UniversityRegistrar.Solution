@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace MVC_Database_Template.Controllers
+namespace UniversityRegistrar.Controllers
 {
     public class HomeController : Controller
     {
